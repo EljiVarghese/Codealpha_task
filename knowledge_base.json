@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "hi",
+      "answer": "yes"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "Hi",
+      "answer": "hi"
+    },
+    {
+      "question": "hello",
+      "answer": "Hi"
+    },
+    {
+      "question": "skip",
+      "answer": "& C:/Users/USER/anaconda3/python.exe c:/Users/USER/Downloads/Templates/bot.py"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi"
+    },
+    {
+      "question": "skip",
+      "answer": "hi"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    }
+  ]
+}
